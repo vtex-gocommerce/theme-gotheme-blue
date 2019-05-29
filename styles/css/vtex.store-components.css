@@ -45,6 +45,11 @@
     color: #000;
 }
 
+.newsletter button {
+    height: 50px;
+    padding: 20px;
+}
+
 .logoContainer {
     height: 70px;
     max-height: 100px;
