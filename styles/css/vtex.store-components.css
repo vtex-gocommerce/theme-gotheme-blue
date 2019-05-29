@@ -14,11 +14,15 @@
 }
 
 .searchBarContainer input {
-    height: 48px;
-    border: 0;
-    border-bottom: 1px solid #000;
-    border-radius: 0;
+    height: 50px;
+    border: 1px solid #d8d8d8;
+    border-radius: 5px;
+    padding: 0 30px;
     color: #000;
+}
+
+.searchBarContainer input+span {
+    padding: 0 30px;
 }
 
 .sellingPrice {
@@ -34,10 +38,10 @@
 }
 
 .newsletter input {
-    background: none;
-    border: 0; 
-    border-radius: 0;
-    border-bottom: 1px solid #000;
+    height: 50px;
+    border: 1px solid #d8d8d8;
+    border-radius: 5px;
+    padding: 0 30px;
     color: #000;
 }
 
