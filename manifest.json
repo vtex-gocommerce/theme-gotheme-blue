@@ -1,7 +1,7 @@
 {
   "vendor": "gocommerce",
   "name": "gotheme-blue",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "title": "GoTheme Blue",
   "builders": {
     "styles": "1.x",
